@@ -8,5 +8,5 @@
     `$deactivate`
 - Install django 3.0
     `$python -m pip install pygame`
-- Check the installed django
+- Check the installed pygame
     `$pip list`
